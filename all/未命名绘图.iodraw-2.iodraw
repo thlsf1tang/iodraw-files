@@ -131,16 +131,19 @@
           <mxGeometry x="-394.5" y="1366" width="87" height="41" as="geometry" />
         </mxCell>
         <mxCell id="BFtpKwzZz9Hw94E2WnjL-56" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;数据实时采集模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="1567" width="120" height="60" as="geometry" />
+          <mxGeometry x="-299.5" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BFtpKwzZz9Hw94E2WnjL-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BFtpKwzZz9Hw94E2WnjL-58" target="BFtpKwzZz9Hw94E2WnjL-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BFtpKwzZz9Hw94E2WnjL-58" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;数据上传及控制模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="1567" width="120" height="60" as="geometry" />
+          <mxGeometry x="-522.5" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BFtpKwzZz9Hw94E2WnjL-60" value="LoRa内网通讯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-362" y="1560" width="112" height="30" as="geometry" />
+          <mxGeometry x="-411.5" y="1563" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-61" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;云端命令&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-384.5" y="1376" width="87" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
