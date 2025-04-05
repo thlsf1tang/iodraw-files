@@ -110,22 +110,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BFtpKwzZz9Hw94E2WnjL-45" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;数据实时采集模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-717" y="1214" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BFtpKwzZz9Hw94E2WnjL-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BFtpKwzZz9Hw94E2WnjL-47" target="BFtpKwzZz9Hw94E2WnjL-48">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-728" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BFtpKwzZz9Hw94E2WnjL-47" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;数据上传及控制模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-489" y="1214" width="120" height="60" as="geometry" />
+          <mxGeometry x="-500" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BFtpKwzZz9Hw94E2WnjL-48" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;云端管理模&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-261" y="1214" width="120" height="60" as="geometry" />
+          <mxGeometry x="-403" y="1227" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BFtpKwzZz9Hw94E2WnjL-49" value="LoRa内网通讯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-597" y="1210" width="112" height="30" as="geometry" />
+          <mxGeometry x="-608" y="1366" width="112" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BFtpKwzZz9Hw94E2WnjL-50" value="WIFI互联网通讯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-369" y="1210" width="112" height="30" as="geometry" />
+          <mxGeometry x="-380" y="1366" width="112" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
