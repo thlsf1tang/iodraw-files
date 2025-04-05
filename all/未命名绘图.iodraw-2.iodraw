@@ -46,6 +46,9 @@
         <mxCell id="BFtpKwzZz9Hw94E2WnjL-11" value="LoRa内网通讯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="164" y="356" width="112" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-14" value="LoRa内网通讯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="168" y="246" width="112" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
