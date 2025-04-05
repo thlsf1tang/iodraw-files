@@ -114,7 +114,7 @@
         </mxCell>
         <mxCell id="BFtpKwzZz9Hw94E2WnjL-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BFtpKwzZz9Hw94E2WnjL-47">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-350.9999999999998" y="1566.5172413793102" as="targetPoint" />
+            <mxPoint x="-295" y="1574" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BFtpKwzZz9Hw94E2WnjL-47" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;数据上传及控制模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
