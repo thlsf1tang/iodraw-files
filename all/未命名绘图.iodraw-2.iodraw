@@ -127,8 +127,8 @@
         <mxCell id="BFtpKwzZz9Hw94E2WnjL-50" value="WIFI互联网通讯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-519" y="1413" width="112" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BFtpKwzZz9Hw94E2WnjL-55" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-605" y="1387" width="60" height="30" as="geometry" />
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-55" value="云端命令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-385" y="1374" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
