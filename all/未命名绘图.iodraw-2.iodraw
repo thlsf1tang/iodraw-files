@@ -116,10 +116,10 @@
           <mxGeometry x="-635" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BFtpKwzZz9Hw94E2WnjL-49" value="LoRa内网通讯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-298" y="1411" width="112" height="30" as="geometry" />
+          <mxGeometry x="-300" y="1413" width="112" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BFtpKwzZz9Hw94E2WnjL-50" value="WIFI互联网通讯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-496" y="1569" width="112" height="30" as="geometry" />
+          <mxGeometry x="-519" y="1413" width="112" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
