@@ -64,11 +64,8 @@
         <mxCell id="BFtpKwzZz9Hw94E2WnjL-16" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;数据实时采集模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="826" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BFtpKwzZz9Hw94E2WnjL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BFtpKwzZz9Hw94E2WnjL-17" target="BFtpKwzZz9Hw94E2WnjL-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BFtpKwzZz9Hw94E2WnjL-17" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;数据上传及控制模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="284" y="828" width="120" height="60" as="geometry" />
+          <mxGeometry x="284" y="826" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BFtpKwzZz9Hw94E2WnjL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BFtpKwzZz9Hw94E2WnjL-18" target="BFtpKwzZz9Hw94E2WnjL-19">
           <mxGeometry relative="1" as="geometry" />
