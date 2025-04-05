@@ -52,6 +52,18 @@
         <mxCell id="BFtpKwzZz9Hw94E2WnjL-15" value="智慧农业接触系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="703" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="87" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="828" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="483" y="826" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="828" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
