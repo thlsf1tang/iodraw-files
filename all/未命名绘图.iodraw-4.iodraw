@@ -1,0 +1,188 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="hAY2XDmbfCnNUMwsqJmN">
+    <mxGraphModel dx="2015" dy="651" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-1" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;信息采集模块2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-92" y="259" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-2" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;网关及控制模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-92" y="144" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;云端模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-92" y="37" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-4" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;信息采集模块n&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="84" y="259" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-5" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;信息采集模块1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-268" y="261" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="BFtpKwzZz9Hw94E2WnjL-5" target="BFtpKwzZz9Hw94E2WnjL-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-143" y="257" as="sourcePoint" />
+            <mxPoint x="-93" y="207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" target="BFtpKwzZz9Hw94E2WnjL-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="84" y="259" as="sourcePoint" />
+            <mxPoint x="134" y="209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="BFtpKwzZz9Hw94E2WnjL-1" target="BFtpKwzZz9Hw94E2WnjL-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-54" y="263" as="sourcePoint" />
+            <mxPoint x="-4" y="213" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="BFtpKwzZz9Hw94E2WnjL-2" target="BFtpKwzZz9Hw94E2WnjL-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="143" as="sourcePoint" />
+            <mxPoint x="20" y="93" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-11" value="LoRa内网通讯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-268" y="214" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-14" value="WIFI互联网通讯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-264" y="104" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BFtpKwzZz9Hw94E2WnjL-15" target="BFtpKwzZz9Hw94E2WnjL-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BFtpKwzZz9Hw94E2WnjL-15" target="BFtpKwzZz9Hw94E2WnjL-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BFtpKwzZz9Hw94E2WnjL-15" target="BFtpKwzZz9Hw94E2WnjL-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-15" value="智慧农业接触系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="284" y="716" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BFtpKwzZz9Hw94E2WnjL-16" target="BFtpKwzZz9Hw94E2WnjL-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-16" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;数据实时采集模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="84" y="826" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BFtpKwzZz9Hw94E2WnjL-17" target="BFtpKwzZz9Hw94E2WnjL-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BFtpKwzZz9Hw94E2WnjL-17" target="BFtpKwzZz9Hw94E2WnjL-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-17" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;数据上传及控制模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="284" y="826" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BFtpKwzZz9Hw94E2WnjL-18" target="BFtpKwzZz9Hw94E2WnjL-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-18" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;云端管理模&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="483" y="826" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-19" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;实时报警模&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="483" y="936" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BFtpKwzZz9Hw94E2WnjL-33" target="BFtpKwzZz9Hw94E2WnjL-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-33" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;数据实时采集模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-743" y="747" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BFtpKwzZz9Hw94E2WnjL-34" target="BFtpKwzZz9Hw94E2WnjL-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-34" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;数据上传及控制模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-515" y="747" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-35" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;云端管理模&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-287" y="747" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-39" value="LoRa内网通讯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-623" y="743" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-43" value="WIFI互联网通讯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-395" y="743" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-45" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;数据实时采集模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-188" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BFtpKwzZz9Hw94E2WnjL-47" target="BFtpKwzZz9Hw94E2WnjL-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-47" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;数据上传及控制模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-411" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BFtpKwzZz9Hw94E2WnjL-48" target="BFtpKwzZz9Hw94E2WnjL-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-48" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;云端管理模&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-635" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-49" value="LoRa内网通讯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-300" y="1413" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-50" value="WIFI互联网通讯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-519" y="1413" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-55" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;云端命令&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-394.5" y="1366" width="87" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-56" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;数据实时采集模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-291.5" y="1567" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BFtpKwzZz9Hw94E2WnjL-58" target="BFtpKwzZz9Hw94E2WnjL-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-58" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;数据上传及控制模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-514.5" y="1567" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-60" value="LoRa内网通讯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-399" y="1559" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BFtpKwzZz9Hw94E2WnjL-61" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;网关及控制模块命令&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-387" y="1503" width="87" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="9xHqCP2AezeR_ckVdcNe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9xHqCP2AezeR_ckVdcNe-1" target="9xHqCP2AezeR_ckVdcNe-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xHqCP2AezeR_ckVdcNe-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;环境数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="192" y="1413" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xHqCP2AezeR_ckVdcNe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9xHqCP2AezeR_ckVdcNe-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474" y="1546" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9xHqCP2AezeR_ckVdcNe-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据帧&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="1413" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xHqCP2AezeR_ckVdcNe-6" value="打包" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="333" y="1415" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9xHqCP2AezeR_ckVdcNe-8" value="LoRa传输" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="414" y="1495" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9xHqCP2AezeR_ckVdcNe-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9xHqCP2AezeR_ckVdcNe-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="1574" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9xHqCP2AezeR_ckVdcNe-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;网关&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="1544" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xHqCP2AezeR_ckVdcNe-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9xHqCP2AezeR_ckVdcNe-11" target="9xHqCP2AezeR_ckVdcNe-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xHqCP2AezeR_ckVdcNe-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;云服务器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="192" y="1544" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xHqCP2AezeR_ckVdcNe-13" value="mqtt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="333" y="1546" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
