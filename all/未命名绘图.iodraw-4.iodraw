@@ -185,10 +185,10 @@
         <mxCell id="Y71eF_69rjMOGqWSkmxi-1" value="帧头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-639" y="2013" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y71eF_69rjMOGqWSkmxi-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y71eF_69rjMOGqWSkmxi-2" value="控制字段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-511" y="2013" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y71eF_69rjMOGqWSkmxi-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y71eF_69rjMOGqWSkmxi-3" value="数据和校验码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-384" y="2013" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y71eF_69rjMOGqWSkmxi-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
