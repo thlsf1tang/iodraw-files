@@ -252,6 +252,11 @@
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-84" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;航电激励计算机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2282" y="457" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1744" y="845.1304347826087" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-85" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;供电管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1684" y="457" width="120" height="60" as="geometry" />
         </mxCell>
@@ -270,7 +275,7 @@
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-96" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;采集控制盒&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="2045" y="573" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-99" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;采集控制盒&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-99" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;座舱设备&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="2045" y="683" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-101" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;显示屏&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
