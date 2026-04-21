@@ -221,6 +221,9 @@
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-84" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;航电激励计算机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2252" y="525" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-85" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;视频显示计算机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1837" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
