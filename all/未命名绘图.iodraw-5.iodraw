@@ -73,7 +73,10 @@
           <mxGeometry x="128" y="871" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-25" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;设备开关&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="328" y="772" width="120" height="60" as="geometry" />
+          <mxGeometry x="487" y="762" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;设备开关&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="656" y="768" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
