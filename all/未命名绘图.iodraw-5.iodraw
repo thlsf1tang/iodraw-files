@@ -141,7 +141,7 @@
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-55" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;信号采集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1322.5" y="231.5" width="69" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-56" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;信号采集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-56" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;信号采集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="312" width="69" height="30" as="geometry" />
         </mxCell>
       </root>
