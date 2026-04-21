@@ -173,7 +173,7 @@
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.182;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-57" target="RGbTNyD0ixg6FeL4Rza4-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-69" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;信号采集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-69" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;DC24V&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1052" y="685" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-70" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;信号采集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -183,7 +183,7 @@
           <mxGeometry x="1315" y="754" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-72" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;信号采集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1337" y="685" width="69" height="30" as="geometry" />
+          <mxGeometry x="1319" y="843" width="69" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
