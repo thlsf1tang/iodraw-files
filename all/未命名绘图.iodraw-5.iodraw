@@ -180,10 +180,16 @@
           <mxGeometry x="1317" y="665" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-71" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;信号采集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="754" width="69" height="30" as="geometry" />
+          <mxGeometry x="1317" y="754" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-72" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;信号采集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1319" y="843" width="69" height="30" as="geometry" />
+          <mxGeometry x="1317" y="843" width="69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-73" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="845" y="747" as="sourcePoint" />
+            <mxPoint x="895" y="697" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
