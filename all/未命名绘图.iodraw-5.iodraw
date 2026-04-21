@@ -107,8 +107,8 @@
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1197" y="411" as="sourcePoint" />
-            <mxPoint x="1197" y="302" as="targetPoint" />
+            <mxPoint x="1223.58" y="411" as="sourcePoint" />
+            <mxPoint x="1223.58" y="302" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-40" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;照明控制盒子&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
