@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="AifCwdg-bhU6bp5USrCp">
-    <mxGraphModel dx="1358" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="663" dy="360" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -357,6 +357,12 @@
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-125" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;隔离网口&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="91" y="1472" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485.8095238095236" y="1307" as="targetPoint" />
+            <mxPoint x="416" y="1307.0116279069769" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-126" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;MCU&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="258" y="1275" width="158" height="287" as="geometry" />
