@@ -216,6 +216,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2175.75" y="310.9999999999998" as="sourcePoint" />
             <mxPoint x="2034.25" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2034" y="311" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-79" value="计算机网络" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=25;" vertex="1" parent="1">
