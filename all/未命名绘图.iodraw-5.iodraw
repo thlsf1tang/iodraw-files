@@ -102,14 +102,8 @@
             <mxPoint x="1144" y="224.02380952380952" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-36" target="RGbTNyD0ixg6FeL4Rza4-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-36" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;集中采集控制盒&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1145" y="85" width="158" height="217" as="geometry" />
-        </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-39" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;座舱设备&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1369" y="115" width="197" height="157" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -119,12 +113,6 @@
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-40" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;照明控制盒子&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1125.5" y="411" width="197" height="157" as="geometry" />
-        </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-44" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1303" y="164" as="sourcePoint" />
-            <mxPoint x="1371" y="164" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-45" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.989;exitY=0.355;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
