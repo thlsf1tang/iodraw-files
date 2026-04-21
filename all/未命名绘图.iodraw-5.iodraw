@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-1" target="RGbTNyD0ixg6FeL4Rza4-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;灯、仪表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="128" y="428" width="120" height="60" as="geometry" />
         </mxCell>
@@ -37,6 +34,13 @@
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.774;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-2" target="RGbTNyD0ixg6FeL4Rza4-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.628;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-5" target="RGbTNyD0ixg6FeL4Rza4-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="462" y="466" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
