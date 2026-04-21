@@ -123,14 +123,20 @@
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-47" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;泛光灯&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="873" y="288" width="197" height="157" as="geometry" />
         </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.962;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1296.996" y="112.39699999999993" as="targetPoint" />
+            <mxPoint x="1305" y="112" as="targetPoint" />
             <mxPoint x="1404" y="112" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-48" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;光敏传感器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1404" y="15" width="197" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1305.3333333333335" y="265" as="targetPoint" />
+            <mxPoint x="1404" y="265" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-49" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;灯光告警系统板&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1404" y="198" width="197" height="157" as="geometry" />
