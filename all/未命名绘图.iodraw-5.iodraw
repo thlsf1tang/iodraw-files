@@ -135,7 +135,7 @@
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-49" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;灯光告警系统板&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1404" y="198" width="197" height="157" as="geometry" />
         </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-52" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;以太网&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-52" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;调光电信号&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1078" y="164" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
