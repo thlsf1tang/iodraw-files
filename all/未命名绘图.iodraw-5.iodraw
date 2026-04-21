@@ -227,13 +227,16 @@
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-83" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;视频显示计算机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1857" y="457" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-84" target="RGbTNyD0ixg6FeL4Rza4-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-84" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;航电激励计算机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2282" y="457" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-85" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;供电管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1684" y="457" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-86" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;接口计算机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-86" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;激励器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2282" y="573" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-87" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;接口计算机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
