@@ -342,8 +342,18 @@
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-123" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;电源&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2707" y="458" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-124">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255.33333333333326" y="1342" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-124" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;电源模块&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="91" y="1312" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-125">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="256.2857142857142" y="1502" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-125" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;隔离网口&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="91" y="1472" width="120" height="60" as="geometry" />
