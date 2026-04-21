@@ -347,7 +347,7 @@
             <mxPoint x="255.33333333333326" y="1342" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-124" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;电源模块&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-124" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;电源模块&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="91" y="1312" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-125">
@@ -355,7 +355,7 @@
             <mxPoint x="256.2857142857142" y="1502" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-125" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;隔离网口&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-125" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;隔离网口&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="91" y="1472" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
@@ -379,17 +379,15 @@
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-128" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;信号灯驱动&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="486" y="1348" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-129" target="RGbTNyD0ixg6FeL4Rza4-134">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RGbTNyD0ixg6FeL4Rza4-134">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="606" y="1451" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-129" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;模拟量采集&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="486" y="1421" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-130" target="RGbTNyD0ixg6FeL4Rza4-135">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-130" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;开关采集&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="486" y="1494" width="120" height="60" as="geometry" />
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RGbTNyD0ixg6FeL4Rza4-135">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="606" y="1524" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-132" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;数码管显示屏&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="651" y="1275" width="120" height="60" as="geometry" />
@@ -407,18 +405,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="485.8095238095236" y="1381.5" as="targetPoint" />
             <mxPoint x="416" y="1381" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="485.9995238095236" y="1450.99" as="targetPoint" />
-            <mxPoint x="416.19" y="1450.49" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="485.8095238095236" y="1528.5" as="targetPoint" />
-            <mxPoint x="416" y="1528" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
