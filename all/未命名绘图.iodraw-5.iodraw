@@ -336,7 +336,7 @@
             <mxPoint x="2698.43" y="352.04347826086945" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-122" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;信号采集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-122" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;以太网总线&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2721" y="320" width="69" height="30" as="geometry" />
         </mxCell>
       </root>
