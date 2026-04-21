@@ -337,7 +337,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-122" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;以太网总线&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2721" y="320" width="69" height="30" as="geometry" />
+          <mxGeometry x="2707" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-123" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;以太网总线&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2707" y="458" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
