@@ -187,9 +187,12 @@
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-73" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RGbTNyD0ixg6FeL4Rza4-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="853" y="717" as="sourcePoint" />
+            <mxPoint x="851" y="715" as="sourcePoint" />
             <mxPoint x="895" y="697" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-74" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;DC24V&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1062" y="695" width="69" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
