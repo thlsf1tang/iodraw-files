@@ -135,8 +135,8 @@
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-52" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;调光电信号&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1078" y="164" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-54" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;调光电信号&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1088" y="174" width="60" height="30" as="geometry" />
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-54" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;信号采集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1328" y="78.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
