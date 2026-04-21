@@ -292,6 +292,9 @@
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-109" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;座舱设备&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="2644" y="212" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-110" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;集中采集控制盒&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2816" y="257" width="158" height="217" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
