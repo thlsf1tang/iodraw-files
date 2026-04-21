@@ -204,25 +204,25 @@
           <mxGeometry x="1033" y="749" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-78" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;飞仿计算机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2015" y="83" width="120" height="60" as="geometry" />
+          <mxGeometry x="2050" y="81" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-79" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2095" y="229" width="157" height="102" as="geometry" />
+          <mxGeometry x="2130" y="227" width="157" height="102" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-80" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;航电计算机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2194" y="83" width="120" height="60" as="geometry" />
+          <mxGeometry x="2229" y="81" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-82" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;接口计算机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2015" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="2050" y="523" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-83" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;视频显示计算机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1827" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="1862" y="523" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-84" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;航电激励计算机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2252" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="2287" y="523" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-85" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;视频显示计算机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1837" y="535" width="120" height="60" as="geometry" />
+          <mxGeometry x="1689" y="523" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
