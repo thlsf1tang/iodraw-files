@@ -130,7 +130,10 @@
           <mxGeometry x="1404" y="411" width="197" height="157" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-48" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;光敏传感器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="844" y="344" width="197" height="157" as="geometry" />
+          <mxGeometry x="844" y="340" width="197" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-49" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;光敏传感器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="844" y="538" width="197" height="157" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
