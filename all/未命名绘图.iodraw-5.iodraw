@@ -230,7 +230,7 @@
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-80" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;航电计算机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2309" y="81" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-82" target="RGbTNyD0ixg6FeL4Rza4-96">
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-82" target="RGbTNyD0ixg6FeL4Rza4-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-82" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;接口计算机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -243,24 +243,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-83" target="RGbTNyD0ixg6FeL4Rza4-101">
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-83" target="RGbTNyD0ixg6FeL4Rza4-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-83" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;视频显示计算机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1857" y="457" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-84" target="RGbTNyD0ixg6FeL4Rza4-86">
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-84" target="RGbTNyD0ixg6FeL4Rza4-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-84" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;航电激励计算机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2359" y="456" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-85">
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-85">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2267" y="373.82608695652175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-85">
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-85">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2166.0869565217395" y="486" as="targetPoint" />
           </mxGeometry>
@@ -268,7 +268,7 @@
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-85" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;供电管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="2207" y="456" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-86" target="RGbTNyD0ixg6FeL4Rza4-87">
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-86" target="RGbTNyD0ixg6FeL4Rza4-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-86" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;激励器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -277,7 +277,7 @@
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-87" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;反馈设备&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2359" y="688" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RGbTNyD0ixg6FeL4Rza4-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-96" target="RGbTNyD0ixg6FeL4Rza4-99">
+        <mxCell id="RGbTNyD0ixg6FeL4Rza4-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RGbTNyD0ixg6FeL4Rza4-96" target="RGbTNyD0ixg6FeL4Rza4-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGbTNyD0ixg6FeL4Rza4-96" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;采集控制盒&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
